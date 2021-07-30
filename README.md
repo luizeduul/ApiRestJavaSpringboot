@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/EstudoJavaSpringboot">
- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luizeduul/EstudoJavaSpringboot">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/ApiRestJavaSpringboot">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luizeduul/ApiRestJavaSpringboot">
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
