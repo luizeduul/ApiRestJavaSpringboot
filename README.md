@@ -8,12 +8,11 @@
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p>Projeto desenvolvido durante a Semana Omistack 11.0 da Rocketseat 🚀</p>
+<p>Projeto sendo desenvolvido com videos do curso de Nataniel Paiva, na udemy.</p>
 
 ## Índice
 - [Descrição](#descrição)
 - [Como utilizar](#como-utilizar)
-- [Previews do projeto](#previews-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias)
 
 ## Descrição
